@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ejercicios 7 al 10</string>
+    <string name="tv1">Resultado</string>
+    //String de nombres de botones
+    <string name="boton">Listview</string>
+    <string name="boton2">ImagenBoton</string>
+    <string name="mensaje">Resultado</string>
+    <string name="boton3">Notificación</string>
+    <string name="boton4">Control Editext</string>
+
+    //Nombres de regresar de los activity a primer activity
+    <string name="boton5">Regresar al menu principal</string>
+    <string name="boton6">Regresar al menu principal</string>
+    <string name="boton7">Regresar al menu principal</string>
+    <string name="boton8">Regresar al menu principal</string>
+
+    //strins para el la notificacion
+    <string name="tv3">¿Cual numero vistes?</string>
+    <string name="bt">Calcular</string>
+
+    //strings para la activity de control
+    <string name="tv4">Ingrese el nombre de usuario</string>
+    <string name="pas">Ingrese su clave</string>
+    <string name="bt2">Verificar</string>
+
+</resources>
